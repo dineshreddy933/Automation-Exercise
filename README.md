@@ -1,11 +1,11 @@
-# Automation-Exercise
+# Automation-Exercise.
 End-to-End Test Automation Framework for Automation Exercise using Playwright, TypeScript, Page Object Model (POM), API Testing, Data-Driven Testing, Cross-Browser Testing, and CI/CD Integration.
 
-# Automation Exercise Test Automation Framework
+# Automation Exercise Test Automation Framework.
 
 This project is a scalable end-to-end test automation framework built using Playwright and TypeScript for the Automation Exercise website. The framework follows industry-standard practices such as Page Object Model (POM), data-driven testing, reusable utilities, and automated reporting.
 
-# Objectives
+# Objectives.
 
 * Automate critical user journeys of an e-commerce application.
 * Validate UI and API functionality.
@@ -13,7 +13,7 @@ This project is a scalable end-to-end test automation framework built using Play
 * Generate detailed execution reports.
 * Integrate automated test execution into CI/CD pipelines.
 
-# Features
+# Features.
 
 * End-to-End UI Automation
 * User Registration & Login Testing
@@ -29,7 +29,7 @@ This project is a scalable end-to-end test automation framework built using Play
 * GitHub Actions CI/CD Pipeline
 * Environment Configuration Support
 
-# Tech Stack
+# Tech Stack.
 
 * Playwright
 * TypeScript
@@ -38,7 +38,7 @@ This project is a scalable end-to-end test automation framework built using Play
 * Allure Reports
 * Docker (Optional)
 
-# Framework Design
+# Framework Design.
 
 * Page Object Model (POM)
 * Reusable Utilities
